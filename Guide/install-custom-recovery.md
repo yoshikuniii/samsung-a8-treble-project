@@ -1,3 +1,5 @@
+# How to Install Custom Recovery
+
 1. Check if your phone isn't RMM Locked. [click here](https://forum.xda-developers.com/galaxy-a8-2018/samsung-galaxy-a8-2018-guides-news--discussion/guide-root-install-twrp-samsung-january-t3760975)
 2. Download required files:
 - [Odin V. 3.13.1](https://dl.sammobile.com/Odin3-v3.13.1.zip)
