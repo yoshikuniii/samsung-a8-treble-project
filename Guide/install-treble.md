@@ -2,7 +2,7 @@
 
 1. Download required files:
 - [TrebleCreator.zip](https://www.androidfilehost.com/?fid=11410963190603911424)
-- [Vendor-Quack_V.2.6.zip](/Treble/Vendor-Quack_V2.6.zip/)
+- [Vendor-Quack_V.2.6.zip](https://drive.filen.io/f/90ea271c-49e3-430d-a75d-23e5e7f479fd#XQsKuhXW62Ut7TEWu748Udm5kqHjLbop)
 - [TWRP-jackpotlte-Treble.img](https://www.androidfilehost.com/?fid=11410963190603911425)
 
 2. Boot to current recovery.
