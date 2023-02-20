@@ -10,5 +10,5 @@ Guide, tools, and files needed to treble Samsung A8 2018.
 1. [How to install Magisk & MicroG](https://github.com/yoshiumikuni/samsung-a8-treble-project/blob/main/Guide/install-magisk-microg.md)
 2. [List of FOSS Apps](https://github.com/offa/android-foss)
 
-Click [this](https://github.com/yoshiumikuni/samsung-a8-treble-project/blob/main/Files/README.md) for download required files.
+Click [this](https://github.com/yoshiumikuni/samsung-a8-treble-project/blob/main/Files/README.md) to download required files.
 
