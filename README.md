@@ -2,9 +2,9 @@
 Guide, tools, and files needed to treble Samsung A8 2018.
 
 ## Treble Guide
-1. How to install custom recovery
-2. How to treble our device
-3. GSI ROM
+1. [How to install custom recovery](https://github.com/yoshiumikuni/samsung-a8-treble-project/blob/main/Guide/install-custom-recovery.md)
+2. [How to treble our device](https://github.com/yoshiumikuni/samsung-a8-treble-project/blob/main/Guide/install-treble.md)
+3. [GSI ROM](https://github.com/yoshiumikuni/samsung-a8-treble-project/blob/main/Guide/install-gsi-rom.md)
 
 ## For those vanilla lovers
 1. How to install Magisk
