@@ -63,4 +63,5 @@ This list are ROM that I've installed on my Samsung A8, some stable, some have b
 | 11 | OneUI 3.1 S20 Port | Same like M31 Port, feature on VoLTE (experimental option available, some Indians had luck with that, and DBT CSC | [Thread](https://forum.xda-developers.com/t/rom-vendor-oneui3-1-s20-port-treeui-0-9-5-beta-for-a8-a8-a7-m20-m30.4252235/)
 | 10 | Havoc | Stable, a lot of customization | [Download](https://sourceforge.net/projects/havoc-os/files/) |
 | 10 | CAOS | Stable, decent customization | [Thread](https://forum.xda-developers.com/t/official-aosp-q-mod-caos.4137289/) |
+| 10 | /e/ OS | Stable, deGoogled ROM that respect your privacy. Actively maintened by developer, it has updated security patch, so this is currently the best ROM you can install.| [Link download and how to install the ROM](https://doc.e.foundation/support-topics/install-GSI) |
 
